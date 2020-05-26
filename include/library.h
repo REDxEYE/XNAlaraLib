@@ -1,0 +1,6 @@
+#ifndef XNALARALIB_LIBRARY_H
+#define XNALARALIB_LIBRARY_H
+
+void hello();
+
+#endif //XNALARALIB_LIBRARY_H
